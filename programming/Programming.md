@@ -5,7 +5,7 @@ I will be informing here about everything what is really important and what is t
 #
 ## Post #12 - [OSSI](posts/12.ossi.md#open-source-solutions-initiative- "Open Source Solutions Initiative").
 ## Post #11 - [Lepsza informatyka](posts/11.lepsza_informatyka.md#start-small- "Zacznijmy od czegoś prostego !").
-## Post #10 - My [current and valid](posts/10.current_contact_info.md#these-are-my-valid-contact-informations "You are free to call me and talk to me !") contact informations.:nbsp::zap:
+## Post #10 - My [current and valid](posts/10.current_contact_info.md#these-are-my-valid-contact-informations "You are free to call me and talk to me !") contact informations.:zap:
 ## Post #9 - The [expected](posts/9.new_Microsoft_Edge.md#new-microsoft-edge-is-the-right-way-to-follow "This is the Microsoft thinking !").
 ## Post #8 - Impossible [made possible](posts/8.JavaScript_LINQ.md#impossible-made-possible "This is for You, My Love.").
 ## Post #7 - Moja [praca magisterska](posts/7.praca_magisterska_Kielce_2008.md#my-thesis---kielce-2008 "The beginning of my real adventure with programming.")
