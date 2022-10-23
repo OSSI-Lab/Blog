@@ -15,6 +15,6 @@ I will be informing here about everything what is really important and what is t
 ## Post #3 - Professional [approach to programming](posts/3.thinking_about_programming.md#thinking-about-programming "This is how I think about professional programming !") ?
 ## Post #2 - How to become a [good software engineer...](posts/2.how_to_become_software_engineer.md#developer-career "How to become the right software engineer in the future, not the false one !")
 #
-## Updated on 24-October-2022 12:12 AM Local Time
+## Updated on 24-October-2022 12:13 AM Local Time
 #
 ##### Go to [Łukasz Dąbrowski Programming Blog](/README.md#%C5%82ukasz-d%C4%85browski-programming-blog "The official blog of mine to say something about what IT matters to me !") page
